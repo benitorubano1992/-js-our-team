@@ -69,6 +69,9 @@ ulTeam.append(liMember);
 
 */
 
+
+//Milestone 3 Bonus
+
 const rowContainer=document.querySelector(".row");
 rowContainer.innerHTML=generateHtml(teamMember);
 
